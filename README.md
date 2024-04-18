@@ -45,8 +45,7 @@ Combining collaborative and content-based filtering, we can develop a model that
 ## MLOps
 An API is provided that can be used to pass input to the model and obtain recommendations. Additionally, when the model is deployed, it is possible to monitor metrics such as precision and recall over time.
 
-![Screenshot of MLFlow](https://github.com/aidaaminian/Recommender-System/blob/main/img1.jpg?raw=true)
-
+![Screenshot of MLFlow](https://github.com/aidaaminian/Recommender-System/blob/main/image-000.png?raw=true)
 
 
 
